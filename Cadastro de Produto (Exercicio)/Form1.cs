@@ -31,21 +31,24 @@ namespace Cadastro_de_Produto__Exercicio_
 
         private void buttonCadastrar_Click(object sender, EventArgs e)
         {
- 
-                Produto x = new Produto();
-                x.Codigo = tb_Codigo.Text;
-                x.Descricao = tb_Descricao.Text;
-                x.Preco = Convert.ToDouble(tb_PrecoDeAquisicao.Text);
-                x.Lucro = Convert.ToDouble(tb_Lucro.Text);           
+            Produto x = new Produto();
+            x.Codigo = tb_Codigo.Text;
+            x.Descricao = tb_Descricao.Text;
+            x.Preco = Convert.ToDouble(tb_PrecoDeAquisicao.Text);
+            x.Lucro = Convert.ToDouble(tb_Lucro.Text);
 
-                double porcentagem = (x.Preco * x.Lucro) / 100;
-                double valorVenda = x.Preco + porcentagem;
-               
-                x.ValorDeVenda = valorVenda;
+            double porcentagem = (x.Preco * x.Lucro) / 100;
+            double valorVenda = x.Preco + porcentagem;
 
-                tb_ValorDeVenda.Text = valorVenda.ToString();
+            x.ValorDeVenda = valorVenda;
 
-                produtos.Add(x);
+            tb_ValorDeVenda.Text = valorVenda.ToString();
+
+            produtos.Add(x);
+
+            dataGridView1.DataSource = null;
+            dataGridView1.Refresh();
+            dataGridView1.DataSource = produtos;
 
         }
         private void buttonNovo_Click(object sender, EventArgs e)
@@ -60,6 +63,11 @@ namespace Cadastro_de_Produto__Exercicio_
         private void tb_ValorDeVenda_TextChanged(object sender, EventArgs e)
         {
             
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }
