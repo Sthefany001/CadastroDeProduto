@@ -1,0 +1,11 @@
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\Cadastro de Produto (Exercicio)\Cadastro de Produto (Exercicio)\bin\Debug\Cadastro de Produto (Exercicio).exe.config
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\Cadastro de Produto (Exercicio)\Cadastro de Produto (Exercicio)\bin\Debug\Cadastro de Produto (Exercicio).exe
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\Cadastro de Produto (Exercicio)\Cadastro de Produto (Exercicio)\bin\Debug\Cadastro de Produto (Exercicio).pdb
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\Cadastro de Produto (Exercicio)\Cadastro de Produto (Exercicio)\obj\Debug\Cadastro de Produto (Exercicio).csproj.AssemblyReference.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\Cadastro de Produto (Exercicio)\Cadastro de Produto (Exercicio)\obj\Debug\Cadastro de Produto (Exercicio).csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\Cadastro de Produto (Exercicio)\Cadastro de Produto (Exercicio)\obj\Debug\Cadastro_de_Produto__Exercicio_.Form1.resources
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\Cadastro de Produto (Exercicio)\Cadastro de Produto (Exercicio)\obj\Debug\Cadastro_de_Produto__Exercicio_.Properties.Resources.resources
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\Cadastro de Produto (Exercicio)\Cadastro de Produto (Exercicio)\obj\Debug\Cadastro de Produto (Exercicio).csproj.GenerateResource.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\Cadastro de Produto (Exercicio)\Cadastro de Produto (Exercicio)\obj\Debug\Cadastro de Produto (Exercicio).csproj.CoreCompileInputs.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\Cadastro de Produto (Exercicio)\Cadastro de Produto (Exercicio)\obj\Debug\Cadastro de Produto (Exercicio).exe
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\Cadastro de Produto (Exercicio)\Cadastro de Produto (Exercicio)\obj\Debug\Cadastro de Produto (Exercicio).pdb
