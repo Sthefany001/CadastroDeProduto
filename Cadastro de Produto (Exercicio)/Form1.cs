@@ -53,9 +53,13 @@ namespace Cadastro_de_Produto__Exercicio_
                 dataGridView1.Refresh();
                 dataGridView1.DataSource = produtos;
             }
+            catch(FormatException ex)
+            {
+                MessageBox.Show("Formato inválido!");
+            }
             catch(Exception ex)
             {
-                MessageBox.Show("Erro! " + ex.Message);
+                MessageBox.Show("Ocorreu um erro inesperado!");
             }
             finally
             {
